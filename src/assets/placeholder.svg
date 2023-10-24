@@ -1,0 +1,6 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="30" height="30" rx="15" fill="#858A8F"/>
+<circle cx="16" cy="10" r="6" fill="#F5DFDF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M6.0309 27.2081C6.43457 22.0555 10.7437 18 16 18C21.2563 18 25.5654 22.0555 25.9691 27.2081C23.319 29.5669 19.8269 31 16 31C12.1731 31 8.68096 29.5669 6.0309 27.2081Z" fill="#F5DFDF"/>
+<rect x="1" y="1" width="30" height="30" rx="15" stroke="black" stroke-width="1.5"/>
+</svg>
