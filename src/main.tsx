@@ -10,7 +10,7 @@ import Homepage from "./pages/Homepage";
 // import ViewOrder from "./pages/ViewOrder";
 // import EditOrder from "./pages/EditOrder";
 import Settings from "./pages/Settings";
-import Welcome from "./pages/Welcome";
+// import Welcome from "./pages/Welcome";
 import InProgress from "./global/InProgress";
 import "./index.css";
 
@@ -60,7 +60,8 @@ const router = createBrowserRouter([
   },
   {
     path: "/welcome",
-    element: <Welcome />,
+    // element: <Welcome />,
+    element: <InProgress />,
     errorElement: <_404 />,
   }
 ])
